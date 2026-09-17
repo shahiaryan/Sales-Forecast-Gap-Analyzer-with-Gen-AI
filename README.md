@@ -1,6 +1,6 @@
 # Sales Forecasting & Gen AI Recommendation System
 
-An end-to-end project that predicts future sales, calculates the gap to a target revenue, identifies where a business is underperforming, and uses Gen AI to recommend concrete actions — built on a SQL + ML/DL + Gen AI + Power BI stack.
+An end-to-end project that predicts future sales, calculates the gap to a target revenue, identifies where a business is underperforming, and uses Gen AI to recommend concrete actions — built on a SQL + ML + Gen AI + Power BI stack.
 
 ## What it does
 

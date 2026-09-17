@@ -1,0 +1,40 @@
+product_id,product_name,category,unit_price,margin_pct
+P0001,Sports Item,electronics,6017.98,0.34
+P0002,Beauty Item,apparel,13910.88,0.14
+P0003,Apparel Item,electronics,10949.99,0.15
+P0004,Beauty Item,apparel,4999.13,0.07
+P0005,Beauty Item,beauty,8621.09,0.33
+P0006,Home & Kitchen Item,apparel,7884.39,0.09
+P0007,Apparel Item,home & kitchen,14423.4,0.23
+P0008,Apparel Item,sports,499.0,0.13
+P0009,Apparel Item,home & kitchen,11247.7,0.41
+P0010,Beauty Item,sports,8164.43,0.24
+P0011,Sports Item,grocery,8863.25,0.28
+P0012,Apparel Item,home & kitchen,14484.04,0.33
+P0013,Grocery Item,home & kitchen,9164.46,0.11
+P0015,Home & Kitchen Item,home & kitchen,4549.66,0.27
+P0016,Sports Item,home & kitchen,2604.21,0.13
+P0017,Grocery Item,home & kitchen,382.2,0.43
+P0018,Grocery Item,home & kitchen,6437.51,0.29
+P0019,Home & Kitchen Item,sports,6013.99,0.33
+P0020,Sports Item,sports,4508.3,0.4
+P0021,Beauty Item,sports,359.09,0.3
+P0022,Electronics Item,beauty,3102.81,0.17
+P0023,Sports Item,apparel,10713.43,0.09
+P0024,Home & Kitchen Item,grocery,11884.11,0.23
+P0025,Grocery Item,electronics,9148.51,0.14
+P0026,Beauty Item,sports,13905.57,0.22
+P0027,Sports Item,home & kitchen,9818.49,0.4
+P0028,Electronics Item,sports,13737.15,0.18
+P0029,Electronics Item,home & kitchen,12773.07,0.1
+P0030,Apparel Item,grocery,6824.34,0.19
+P0031,Apparel Item,grocery,1566.84,0.41
+P0032,Home & Kitchen Item,grocery,5656.65,0.16
+P0033,Sports Item,home & kitchen,10082.29,0.31
+P0034,Sports Item,sports,10038.95,0.05
+P0035,Grocery Item,grocery,8930.77,0.19
+P0036,Grocery Item,beauty,4229.62,0.17
+P0037,Grocery Item,home & kitchen,8484.46,0.12
+P0038,Apparel Item,home & kitchen,5836.46,0.26
+P0039,Sports Item,sports,14579.92,0.24
+P0040,Sports Item,home & kitchen,12756.37,0.33

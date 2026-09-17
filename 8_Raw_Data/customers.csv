@@ -1,0 +1,257 @@
+customer_id,customer_name,segment,region,join_date,email
+C00001,Customer_1,Online,West,2023-01-22,customer1@example.com
+C00002,Customer_2,Retail,West,2021-05-24,customer2@example.com
+C00003,Customer_3,,North,09-01-2022,customer3@example.com
+C00004,Customer_4,Online,East,09/05/2024,customer4@example.com
+C00005,Customer_5,Retail,East,22/02/2024,
+C00006,Customer_6,Corporate,East,06/07/2021,customer6@example.com
+C00007,Customer_7,Online,Central,2024-09-11,customer7@example.com
+C00008,Customer_8,Retail,South,"April 09, 2022",customer8@example.com
+C00009,Customer_9,Retail,Central,2024-10-04,customer9@example.com
+C00010,Customer_10,Corporate,South,"October 22, 2022",customer10@example.com
+C00011,Customer_11,Wholesale,East,unknown,customer11@example.com
+C00012,Customer_12,Wholesale,East,2023-08-13,customer12@example.com
+C00013,Customer_13,Online,Central,2022-02-07,customer13@example.com
+ c00014 ,Customer_14,Online,Central,2024-10-01,customer14@example.com
+C00015,Customer_15,,South,27/05/2021,customer15@example.com
+C00016,Customer_16,Corporate,West,17/03/2024,customer16@example.com
+C00017,Customer_17,Online, East,"May 14, 2023",customer17@example.com
+C00018,Customer_18,Online,Central,"May 04, 2022",customer18@example.com
+C00019,Customer_19,Online,Central,2023-07-18,customer19@example.com
+C00020,Customer_20,Online,North,"July 05, 2022",customer20@example.com
+C00021,Customer_21,Online,Central,04/12/2021,customer21@example.com
+C00022,Customer_22,Retail,North,"May 22, 2023",customer22@example.com
+C00023,Customer_23,Online,West,03-Oct-2022,customer23@example.com
+C00024,Customer_24,Online,South,18/04/2022,customer24@example.com
+C00025,Customer_25,Online,South,31-May-2021,customer25@example.com
+C00026,Customer_26,Online,North,"August 14, 2024",customer26@example.com
+C00027,Customer_27,Online,,09-20-2021,customer27@example.com
+C00028,Customer_28,Retail,Central,2021-05-24,customer28@example.com
+ c00029 ,Customer_29,Retail,East,12/12/2021,customer29@example.com
+C00030,Customer_30,Retail,North,16-Sep-2022,customer30@example.com
+C00031,Customer_31,Retail,South,10-14-2023,customer31@example.com
+C00032,Customer_32,Retail,North,05-31-2023,customer32@example.com
+C00033,Customer_33,Online,North,02/01/2021,customer33@example.com
+C00034,Customer_34,Retail,East,16/06/2023,customer34@example.com
+C00035,Customer_35,Online,Central,08-20-2024,customer35@example.com
+C00036,Customer_36,Retail,North,2021-09-11,customer36@example.com
+C00037,Customer_37,Online,South,2022-03-29,customer37@example.com
+C00038,Customer_38,Retail,West,27-Nov-2023,customer38@example.com
+C00039,Customer_39,Retail,North,2024-03-29,customer39@example.com
+C00040,Customer_40,Wholesale,North,10-12-2023,customer40@example.com
+C00041,Customer_41,Online,East,01-09-2021,customer41@example.com
+C00042,Customer_42,Retail,Central,"June 10, 2024",customer42@example.com
+C00043,Customer_43,Corporate,West,01-28-2024,customer43@example.com
+C00044,Customer_44,Retail,South,2023-03-27,customer44@example.com
+C00045,Customer_45,Wholesale,West,27-Jul-2021,customer45@example.com
+C00046,Customer_46,Corporate,South,N/A,customer46@example.com
+C00047,Customer_47,Wholesale,Central,2022-02-08,customer47@example.com
+C00048,Customer_48,Wholesale,South,01-Jun-2021,customer48@example.com
+C00049,Customer_49,Online,East,2021-02-23,customer49@example.com
+C00050,Customer_50,Online,East,"February 18, 2024",customer50@example.com
+C00051,Customer_51,Online,East,09-20-2022,customer51@example.com
+C00052,Customer_52,Retail,East,"August 10, 2022",customer52@example.com
+C00053,Customer_53,Retail,West,04-14-2021,customer53@example.com
+C00054,Customer_54,Online,Central,"September 11, 2021",customer54@example.com
+C00055,Customer_55,Online,South,04/06/2024,customer55@example.com
+C00056,Customer_56,Online,South,2024-02-10,customer56@example.com
+C00057,Customer_57,Retail,East,2022-05-25,customer57@example.com
+C00058,Customer_58,Online,East,09/04/2021,customer58@example.com
+C00059,Customer_59,Online,North,06-02-2021,customer59@example.com
+C00060,Customer_60,Retail,,2023-07-03,customer60@example.com
+C00061,Customer_61,Retail,West,28/05/2023,customer61@example.com
+C00062,Customer_62,Wholesale,South,2021-12-04,customer62@example.com
+C00063,Customer_63,Wholesale,North,02-Apr-2023,customer63@example.com
+C00064,Customer_64,Retail,North,04-01-2024,customer64@example.com
+C00065,Customer_65,Retail, East,15-Aug-2023,customer65@example.com
+C00066,Customer_66,,West,06-10-2021,customer66@example.com
+C00067,Customer_67,Retail,,12/03/2023,customer67@example.com
+C00068,Customer_68,Corporate,north,02-02-2022,customer68@example.com
+C00069,Customer_69,Online,Central,07-24-2024,customer69@example.com
+C00070,Customer_70,Retail,West,27/03/2023,customer70@example.com
+C00071,Customer_71,Corporate, East,03-04-2024,customer71@example.com
+C00072,Customer_72,Online,West,2024-05-03,customer72@example.com
+C00073,Customer_73,Wholesale,South,"February 05, 2022",
+C00074,Customer_74,Wholesale,East,02/10/2022,customer74@example.com
+C00075,Customer_75,Retail,,"November 23, 2023",customer75@example.com
+C00076,Customer_76,Retail,Central,19/11/2022,customer76@example.com
+C00077,Customer_77,Online,South,05/04/2022,customer77@example.com
+C00078,Customer_78,Online,West,13-Aug-2023,customer78@example.com
+C00079,Customer_79,Retail,South,15-Apr-2022,customer79@example.com
+C00080,Customer_80,Corporate,North,10-30-2024,customer80@example.com
+C00081,Customer_81,Online,West,"November 12, 2023",customer81@example.com
+C00082,Customer_82,Retail,East,20/01/2023,customer82@example.com
+C00083,Customer_83,Corporate,South,02-07-2021,customer83@example.com
+C00084,Customer_84,Corporate,North,2021-08-18,customer84@example.com
+C00085,Customer_85,Corporate,Central,20/10/2024,customer85@example.com
+C00086,Customer_86,Retail,West,2022-07-17,customer86@example.com
+C00087,Customer_87,Online,,03-14-2022,customer87@example.com
+C00088,Customer_88,Wholesale,South,30-Jul-2024,customer88@example.com
+C00089,Customer_89,Online,East,01-27-2021,customer89@example.com
+C00090,Customer_90,Corporate,SOUTH ,2021-08-14,customer90@example.com
+C00091,Customer_91,Online,Central,24/07/2024,customer91@example.com
+C00092,Customer_92,Online,SOUTH ,"March 09, 2023",customer92@example.com
+C00093,Customer_93,Online,North,10-11-2021,customer93@example.com
+C00094,Customer_94,Online,SOUTH ,29/05/2023,customer94@example.com
+C00095,Customer_95,Wholesale,Central,18-Aug-2023,
+C00096,Customer_96,Retail,Central,29-Mar-2022,customer96@example.com
+C00097,Customer_97,Retail,West,17-Oct-2023,customer97@example.com
+C00098,Customer_98,Online,East,27/03/2023,customer98@example.com
+C00099,Customer_99,Retail,North,10-21-2022,customer99@example.com
+C00100,Customer_100,Wholesale,East,01/07/2022,customer100@example.com
+C00101,Customer_101,Retail,East,30/04/2024,customer101@example.com
+C00102,Customer_102,Online,Central,"December 09, 2023",customer102@example.com
+C00103,Customer_103,Online,West,"January 17, 2021",
+C00104,Customer_104,Online,South,04-10-2024,customer104@example.com
+C00105,Customer_105,Retail,West,"May 28, 2024",customer105@example.com
+C00106,Customer_106,Corporate,West,07-Jun-2021,customer106@example.com
+C00107,Customer_107,Online,East,"April 22, 2022",customer107@example.com
+C00108,Customer_108,Retail,West,06-Dec-2023,customer108@example.com
+C00109,Customer_109,,North,10-28-2024,customer109@example.com
+C00110,Customer_110,Wholesale,East,02/06/2022,customer110@example.com
+C00111,Customer_111,Retail,North,09/04/2021,customer111@example.com
+C00112,Customer_112,Online,South,"November 27, 2023",customer112@example.com
+C00113,Customer_113,Retail,East,07-Oct-2021,customer113@example.com
+C00114,Customer_114,Retail,South,2024-10-04,
+C00115,Customer_115,Wholesale,East,2022-05-12,customer115@example.com
+C00116,Customer_116,Retail,Central,2021-10-29,customer116@example.com
+C00117,Customer_117,Wholesale,West,30/06/2021,customer117@example.com
+C00118,Customer_118,Online,Central,30/08/2022,customer118@example.com
+C00119,Customer_119,Online,South,28-Jan-2024,customer119@example.com
+C00120,Customer_120,Online,West,"December 01, 2022",customer120@example.com
+C00121,Customer_121,Online,East,2023-09-20,customer121@example.com
+C00122,Customer_122,Online,West,14-Feb-2024,customer122@example.com
+C00123,Customer_123,Online,North,10-Jul-2021,
+C00124,Customer_124,Retail,West,"September 10, 2021",customer124@example.com
+C00125,Customer_125,Wholesale,North,08-Sep-2023,customer125@example.com
+C00126,Customer_126,Wholesale,West,"July 17, 2023",customer126@example.com
+C00127,Customer_127,Retail,SOUTH ,03-30-2024,customer127@example.com
+C00128,Customer_128,Wholesale,South,"July 03, 2024",
+C00129,Customer_129,Wholesale,Central,2024-09-08,customer129@example.com
+C00130,Customer_130,Online,East,2021-05-08,customer130@example.com
+C00131,Customer_131,Corporate,West,"January 18, 2021",customer131@example.com
+C00132,Customer_132,Online,Central,07-20-2022,customer132@example.com
+C00133,Customer_133,Retail,East,07-24-2022,customer133@example.com
+C00134,Customer_134,Retail,East,2024-09-08,customer134@example.com
+C00135,Customer_135,Corporate,North,11-17-2022,customer135@example.com
+C00136,Customer_136,Corporate,South,18-Sep-2022,customer136@example.com
+ c00137 ,Customer_137,Retail,South,04/08/2024,customer137@example.com
+C00138,Customer_138,Online,Central,04-May-2023,customer138@example.com
+C00139,Customer_139,Retail,South,2023-08-20,customer139@example.com
+C00140,Customer_140,Retail,West,06-04-2021,customer140@example.com
+C00141,Customer_141,Retail,South,"May 05, 2022",customer141@example.com
+C00142,Customer_142,Retail,Central,24/02/2023,customer142@example.com
+C00143,Customer_143,Corporate,South,"February 02, 2024",
+C00144,Customer_144,Online,West,N/A,customer144@example.com
+ c00145 ,Customer_145,Retail,North,04-14-2024,customer145@example.com
+C00146,Customer_146,Online,Central,"November 29, 2023",customer146@example.com
+C00147,Customer_147,,North,"January 29, 2023",customer147@example.com
+ c00148 ,Customer_148,Corporate,North,22/06/2022,customer148@example.com
+C00149,Customer_149,Retail,North,10/07/2023,customer149@example.com
+C00150,Customer_150,Retail,East,02-12-2022,customer150@example.com
+C00151,Customer_151,Retail,East,09/06/2022,customer151@example.com
+C00152,Customer_152,Retail,North,"April 08, 2023",customer152@example.com
+C00153,Customer_153,Retail,Central,"June 22, 2023",
+C00154,Customer_154,Online,West,2021-02-05,customer154@example.com
+C00155,Customer_155,Retail,West,"November 16, 2022",customer155@example.com
+C00156,Customer_156,Retail,South,01-20-2021,customer156@example.com
+C00157,Customer_157,,Central,17-Nov-2021,customer157@example.com
+C00158,Customer_158,,East,2022-05-27,customer158@example.com
+C00159,Customer_159,Retail,North,2022-02-04,customer159@example.com
+C00160,Customer_160,Wholesale,South,10-16-2022,customer160@example.com
+C00161,Customer_161,Retail,West,08-30-2023,customer161@example.com
+C00162,Customer_162,Retail,north,16/04/2022,customer162@example.com
+C00163,Customer_163,,,2024-03-12,customer163@example.com
+C00164,Customer_164,Online,North,21/01/2024,customer164@example.com
+C00165,Customer_165,Retail,West,"October 09, 2024",customer165@example.com
+C00166,Customer_166,Retail,Central,2023-04-14,customer166@example.com
+C00167,Customer_167,Retail,East,2022-12-28,customer167@example.com
+C00168,Customer_168,Corporate,North,04-May-2023,customer168@example.com
+C00169,Customer_169,Wholesale,Central,2021-02-20,customer169@example.com
+C00170,Customer_170,Online,West,"July 29, 2022",customer170@example.com
+C00171,Customer_171,Corporate,East,28/04/2024,customer171@example.com
+C00172,Customer_172,Retail,Central,23/02/2024,customer172@example.com
+C00173,Customer_173,Online,Central,30-May-2021,customer173@example.com
+C00174,Customer_174,,Central,"November 10, 2021",
+C00175,Customer_175,Retail,East,24/07/2022,customer175@example.com
+C00176,Customer_176,Wholesale,East,09-27-2024,customer176@example.com
+C00177,Customer_177,Online,South,"November 01, 2021",customer177@example.com
+C00178,Customer_178,Wholesale,West,"November 13, 2022",customer178@example.com
+C00179,Customer_179,Corporate,North,18-Apr-2023,customer179@example.com
+C00180,Customer_180,Retail,Central,14/12/2023,customer180@example.com
+C00181,Customer_181,Online,South,"September 30, 2023",customer181@example.com
+C00182,Customer_182,Retail,North,20/03/2022,customer182@example.com
+C00183,Customer_183,Online,South,09-05-2022,customer183@example.com
+C00184,Customer_184,Online,East,20-Sep-2023,customer184@example.com
+C00185,Customer_185,Retail,Central,09-21-2021,customer185@example.com
+C00186,Customer_186,Retail,North,13-Dec-2023,customer186@example.com
+C00187,Customer_187,Retail,North,"October 01, 2023",customer187@example.com
+C00188,Customer_188,Retail,North,05-Jan-2021,customer188@example.com
+C00189,Customer_189,Retail,North,2024-02-01,customer189@example.com
+C00190,Customer_190,Online,North,04/05/2024,customer190@example.com
+C00191,Customer_191,Wholesale,South,13/02/2023,customer191@example.com
+C00192,Customer_192,,Central,2023-05-27,customer192@example.com
+C00193,Customer_193,Corporate,East,09-19-2023,customer193@example.com
+C00194,Customer_194,Online,East,2023-06-03,customer194@example.com
+C00195,Customer_195,Online,East,"October 05, 2024",customer195@example.com
+C00196,Customer_196,Online,East,"February 16, 2021",customer196@example.com
+C00197,Customer_197,Retail,South,,customer197@example.com
+C00198,Customer_198,Retail,West,"April 03, 2023",customer198@example.com
+C00199,Customer_199,Retail,Central,25/07/2023,customer199@example.com
+C00200,Customer_200,Retail,North,2022-10-18,customer200@example.com
+C00201,Customer_201,Retail,West,2021-09-26,customer201@example.com
+C00202,Customer_202,Retail,,2022-01-05,customer202@example.com
+C00203,Customer_203,Online,West,28/09/2022,customer203@example.com
+C00204,Customer_204,Online,Central,2024-02-04,customer204@example.com
+C00205,Customer_205,Retail,North,2022-10-19,customer205@example.com
+C00206,Customer_206,Retail,North,04-30-2021,customer206@example.com
+C00207,Customer_207,Retail,Central,2023-04-11,customer207@example.com
+C00208,Customer_208,Wholesale,Central,"December 18, 2023",customer208@example.com
+C00209,Customer_209,Wholesale,East,01/10/2024,customer209@example.com
+C00210,Customer_210,Online,North,01-11-2023,
+C00211,Customer_211,Retail,West,27-Apr-2021,customer211@example.com
+C00212,Customer_212,Online,South,02/03/2023,customer212@example.com
+C00213,Customer_213,Corporate,South,"February 25, 2024",customer213@example.com
+C00214,Customer_214,Retail,Central,10/10/2023,customer214@example.com
+C00215,Customer_215,Online,East,"December 18, 2023",customer215@example.com
+C00216,Customer_216,Online,South,"September 26, 2022",customer216@example.com
+C00217,Customer_217,Wholesale,North,28-May-2022,customer217@example.com
+C00218,Customer_218,Wholesale,Central,13/03/2023,customer218@example.com
+C00219,Customer_219,Online,West,25-Jan-2024,customer219@example.com
+C00220,Customer_220,Online,,16-Feb-2024,customer220@example.com
+C00221,Customer_221,Online,West,14/07/2022,customer221@example.com
+C00222,Customer_222,Corporate,Central,2022-05-03,customer222@example.com
+C00223,Customer_223,Online,Central,2024-06-14,customer223@example.com
+C00224,Customer_224,Corporate,Central,16-Jun-2023,
+C00225,Customer_225,Online,SOUTH ,07-19-2024,customer225@example.com
+C00226,Customer_226,Online,West,27-Apr-2024,customer226@example.com
+C00227,Customer_227,Online,Central,05-Dec-2022,customer227@example.com
+C00228,Customer_228,Retail,South,04-Aug-2022,customer228@example.com
+C00229,Customer_229,Online,East,2023-03-01,customer229@example.com
+C00230,Customer_230,Wholesale,East,2023-05-11,customer230@example.com
+C00231,Customer_231,Wholesale,north,2021-09-04,customer231@example.com
+C00232,Customer_232,Corporate,West,05-Jan-2024,customer232@example.com
+C00233,Customer_233,Retail,West,06-03-2021,customer233@example.com
+C00234,Customer_234,Wholesale, East,2023-09-24,customer234@example.com
+C00235,Customer_235,Online,East,15/01/2024,customer235@example.com
+C00236,Customer_236,Online,East,28/11/2022,customer236@example.com
+C00237,Customer_237,Wholesale,Central,01/08/2024,customer237@example.com
+C00238,Customer_238,,West,"May 28, 2024",customer238@example.com
+C00239,Customer_239,Online,East,29-Dec-2023,customer239@example.com
+C00240,Customer_240,Retail,South,07/12/2023,
+C00241,Customer_241,,South,06-Oct-2023,
+C00242,Customer_242,Online,East,unknown,customer242@example.com
+C00243,Customer_243,Retail,West,08-16-2023,customer243@example.com
+C00244,Customer_244,Retail,South,09-Oct-2023,customer244@example.com
+C00245,Customer_245,Online,Central,29/03/2022,customer245@example.com
+C00246,Customer_246,Retail,South,2024-05-12,customer246@example.com
+C00247,Customer_247,Wholesale,North,01-Jul-2023,customer247@example.com
+C00248,Customer_248,Wholesale,North,"August 06, 2021",customer248@example.com
+C00249,Customer_249,Online,West,2022-04-19,customer249@example.com
+C00250,Customer_250,Wholesale,north,2022-03-08,
+C00034,Customer_34,Retail,East,16/06/2023,customer34@example.com
+C00214,Customer_214,Retail,Central,10/10/2023,customer214@example.com
+C00040,Customer_40,Wholesale,North,10-12-2023,customer40@example.com
+C00007,Customer_7,Online,Central,2024-09-11,customer7@example.com
+ c00102 ,Customer_102,Online,Central,"December 09, 2023",customer102@example.com
+C00207,Customer_207,Retail,Central,2023-04-11,customer207@example.com
